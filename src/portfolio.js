@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
   resumeLink:
-    "https://drive.google.com/drive/my-drive",
+    "https://docs.google.com/document/d/14f2qEaIbtuUedEo25SZ2hk2G1DYE1uzmaHL7nL8MtrE/edit?usp=sharing",
   mail: "k.niharika2206@gmail.com",
 };
 
@@ -71,13 +71,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:java",
           style: {
             color: "#f89820",
-          },
-        },
-        {
-          skillName: "Kotlin",
-          fontAwesomeClassname: "simple-icons:kotlin",
-          style: {
-            color: "#5c79df",
           },
         },
 
@@ -316,7 +309,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "hrishi2.png",
+    profile_image_path: "niharika-pic.jpg",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
