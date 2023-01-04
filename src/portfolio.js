@@ -309,7 +309,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "niharika-pic.jpg",
+    profile_image_path: "My project.jpg",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
@@ -357,7 +357,7 @@ const projects = {
     },
     {
       name: "Portfolio",
-      url: "https://github.com/Hrishi1999/opPortfolio",
+      url: "https://github.com/Niharika-kakumanu-22/Portfolio",
       description: "(This) A clean and full customizable portfolio template.",
       languages: [
         {
