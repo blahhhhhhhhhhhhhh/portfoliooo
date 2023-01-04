@@ -10,26 +10,26 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello.",
-  title2: "Hrishi",
-  logo_name: "hrishi.p()",
-  nickname: "hrishi1999 / picleric",
-  full_name: "Hrishi Patel",
+  title2: "Niharika",
+  logo_name: "Niharika()",
+  nickname: "Niharika / Niha",
+  full_name: "Niharika kakumanu",
   subTitle:
     "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1IQge4pNhyj-RD2OOnEMrRPMODDUWeVDy/view?usp=sharing",
-  mail: "mailto:hrishipatel99@gmail.com",
+    "https://drive.google.com/drive/my-drive",
+  mail: "k.niharika2206@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/hrishi1999",
-  linkedin: "https://www.linkedin.com/in/hrishi-patel-ba8476140/",
-  gmail: "hrishipatel99@gmail.com",
+  github: "https://github.com/Niharika-kakumanu-22",
+  linkedin: "https://www.linkedin.com/in/niharika-kakumanu-2544b7249/",
+  gmail: "k.niharika2206@gmail.com",
   gitlab: " ",
   facebook: " ",
-  twitter: "https://twitter.com/hrishi_55",
-  instagram: "https://www.instagram.com/picleric/",
+  twitter: "",
+  instagram: "https://www.instagram.com/niharika_kakumanu/",
 };
 
 const skills = {
@@ -39,8 +39,8 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using ReactJS",
-        "⚡ Developing mobile applications using Flutter and native Android",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Developing web applications using Flutter.",
+        "⚡ Creating application backend in Node, Express .",
       ],
       softwareSkills: [
         {
@@ -65,13 +65,7 @@ const skills = {
             color: "#F7DF1E",
           },
         },
-        {
-          skillName: "PHP",
-          fontAwesomeClassname: "simple-icons:php",
-          style: {
-            color: "#7377AD",
-          },
-        },
+
         {
           skillName: "Java",
           fontAwesomeClassname: "simple-icons:java",
@@ -86,35 +80,7 @@ const skills = {
             color: "#5c79df",
           },
         },
-        {
-          skillName: "Dart",
-          fontAwesomeClassname: "simple-icons:dart",
-          style: {
-            color: "#29B0EE",
-          },
-        },
-        {
-          skillName: "Go",
-          fontAwesomeClassname: "simple-icons:go",
-          style: {
-            color: "#00A7D0",
-          },
-        },
-        {
-          skillName: "Visual Basic",
-          fontAwesomeClassname: "simple-icons:dot-net",
-          style: {
-            color: "#029FCE",
-          },
-        },
-        {
-          skillName: "C#",
-          fontAwesomeClassname: "simple-icons:csharp",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
+
         {
           skillName: "C",
           fontAwesomeClassname: "simple-icons:c",
@@ -159,20 +125,7 @@ const skills = {
             color: "#439743",
           },
         },
-        {
-          skillName: "GraphQL",
-          fontAwesomeClassname: "simple-icons:graphql",
-          style: {
-            color: "#DE33A6",
-          },
-        },
-        {
-          skillName: "Android App Development",
-          fontAwesomeClassname: "simple-icons:android",
-          style: {
-            color: "#3DDC84",
-          },
-        },
+
         {
           skillName: "Flutter",
           fontAwesomeClassname: "simple-icons:flutter",
@@ -188,13 +141,6 @@ const skills = {
           },
         },
 
-        {
-          skillName: "Wordpress",
-          fontAwesomeClassname: "simple-icons:wordpress",
-          style: {
-            color: "#207297",
-          },
-        },
 
         {
           skillName: "Git",
