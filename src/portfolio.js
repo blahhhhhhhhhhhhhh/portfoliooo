@@ -39,8 +39,8 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using ReactJS",
-        "⚡ Developing web applications using Flutter.",
-        "⚡ Creating application backend in Node, Express .",
+        "⚡ Developing web applications using Reactjs.",
+        "⚡ Creating application backend in Nodejs and firebase.",
       ],
       softwareSkills: [
         {
@@ -65,7 +65,6 @@ const skills = {
             color: "#F7DF1E",
           },
         },
-
         {
           skillName: "Java",
           fontAwesomeClassname: "simple-icons:java",
@@ -96,6 +95,13 @@ const skills = {
           },
         },
         {
+          skillName: "React Native",
+          fontAwesomeClassname: "tabler:brand-react-native",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
           skillName: "NextJS",
           fontAwesomeClassname: "simple-icons:nextdotjs",
           style: {
@@ -112,14 +118,6 @@ const skills = {
           },
         },
         {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#439743",
-          },
-        },
-
-        {
           skillName: "Flutter",
           fontAwesomeClassname: "simple-icons:flutter",
           style: {
@@ -133,7 +131,48 @@ const skills = {
             color: "#4479A1",
           },
         },
-
+        {
+          skillName: "firebase",
+          fontAwesomeClassname: "simple-icons:firebase",
+          style: {
+            color: "#FFCB2E",
+          },
+        },
+        {
+          skillName: "redux",
+          fontAwesomeClassname: "simple-icons:redux",
+          style: {
+            color: "#764ABC",
+          },
+        },
+        {
+          skillName: "bootstrap",
+          fontAwesomeClassname: "simple-icons:bootstrap",
+          style: {
+            color: "#860AFB",
+          },
+        },
+        {
+          skillName: "stripe",
+          fontAwesomeClassname: "simple-icons:stripe",
+          style: {
+            color: "#6772E5",
+          },
+        },
+        {
+          skillName: "tailwindcss",
+          fontAwesomeClassname: "simple-icons:tailwindcss",
+          style: {
+            color: "#38BDF8",
+          },
+        },
+        {
+          skillName: "github",
+          fontAwesomeClassname: "simple-icons:github",
+          style: {
+            color: "#010101",
+          },
+        },
 
         {
           skillName: "Git",
@@ -159,6 +198,13 @@ const skills = {
             backgroundColor: "transparent",
           },
         },
+        {
+          skillName: "Netlify",
+          fontAwesomeClassname: "simple-icons:netlify",
+          style: {
+            color: "#38AFBB",
+          },
+        },
         
         {
           skillName: "Python",
@@ -179,21 +225,15 @@ const skills = {
       ],
     },
     {
-      title: "Cloud Infra-Architecture",
+      title: "Cloud Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on cloud platforms",
+        "⚡ Learning on cloud platforms",
         "⚡ Experience hosting and managing websites",
-        "⚡ Experience with Continuous Integration",
+        "⚡ Certifications by Coursera",
       ],
       softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
+        
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
@@ -216,14 +256,6 @@ const skills = {
             color: "#FFCA28",
           },
         },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        
       ],
     },
   ],
@@ -235,8 +267,8 @@ const degrees = {
     {
       title: "Mahindra University",
       subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "sal.png",
-      alt_name: "SETI",
+      logo_path: "mu.png",
+      alt_name: "Mahindra University",
       duration: "2020 - 2024",
       descriptions: [
         "⚡ I have studied core subjects like Data Structures, DBMS, Machine learning etc.",
@@ -251,20 +283,12 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Google Summer of Code 2019",
-      subtitle: "Google / Sugar Labs",
+      title: "UI/UX",
+      subtitle: "Greate Learning",
       logo_path: "google_logo.png",
       certificate_link: " ",
-      alt_name: "Google",
+      alt_name: "Greate Learning",
       color_code: "#ffc475",
-    },
-    {
-      title: "Google Code-In Student",
-      subtitle: "2014-2017",
-      logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
-      color_code: "#1e70c1",
     },
   ],
 };
@@ -274,7 +298,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I've completed two internships. I've mostly done projects on my own and I am actively looking for internships. I love organizing workshops to share my knowledge with others.",
+    "I've mostly done projects on my own and I am actively looking for internships. I love organizing workshops to share my knowledge with others.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -325,18 +349,75 @@ const contactPageData = {
 const projects = {
   data: [
     {
-      name: "Travigo-travel",
-      url: "https://github.com/Niharika-kakumanu-22/Travel-niharika",
-      description:
-        "This project is based on how an effective travel website will make us feel.This website contains highlights of some important places along and allows people to book their dream destination within their budgets.",
+      name: "Disneyplus-clone",
+      url: "https://github.com/Niharika-kakumanu-22/Disneyplus-clone",
+      description: "Here's the DEMO Disney+ Clone App",
       languages: [
         {
           name: "ReactJS",
           iconifyClass: "logos-react",
         },
         {
+          name: "react",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "firebase",
+          iconifyClass: "logos-firebase",
+        },
+        {
           name: "JavaScript",
           iconifyClass: "logos-javascript",
+        },
+      ],
+    },
+    {
+      name: "Amazon-clone",
+      url: "https://github.com/Niharika-kakumanu-22/Amazon-clone",
+      description: "A complete E-commerce app like Amazon.",
+      languages: [
+        {
+          name: "ReactJS",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "react",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "firebase",
+          iconifyClass: "logos-firebase",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+      ],
+    },
+    {
+      name: "Portfolio",
+      url: "https://github.com/Niharika-kakumanu-22/Portfolio",
+      description: "(This) A clean and full customizable portfolio template.",
+      languages: [
+        {
+          name: "ReactJS",
+          iconifyClass: "logos-react",
+        },
+      ],
+    },
+    {
+      name: "Multiple Disease Prediction System using Machine Learning",
+      url: "https://github.com/Niharika-kakumanu-22/multiple-disease ",
+      description:
+        "A menu-based multiple chronic disease detection system that will detect if a person is suffering from a severe disease by taking essential input values.",
+      languages: [
+        {
+          name: "Python",
+          iconifyClass: "logos-python",
+        },
+        {
+          name: "Jupyter Notebook",
+          iconifyClass: "logos-jupyter",
         },
       ],
     },
@@ -356,21 +437,10 @@ const projects = {
       ],
     },
     {
-      name: "Portfolio",
-      url: "https://github.com/Niharika-kakumanu-22/Portfolio",
-      description: "(This) A clean and full customizable portfolio template.",
-      languages: [
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
-        },
-      ],
-    },
-    {
-      name: "Modern payment",
-      url: "https://github.com/Niharika-kakumanu-22/modern-payment",
+      name: "Travigo-travel template",
+      url: "https://github.com/Niharika-kakumanu-22/Travel-niharika",
       description:
-        "Modern payment systems use cash substitutes as compared to traditional payment systems. It allows consumers and organizations to transfer funds usually held in an account to one another.",
+        "This project is based on how an effective demo travel website will make us feel.This website contains highlights of some important places along and allows people to book their dream destination within their budgets.",
       languages: [
         {
           name: "ReactJS",
@@ -383,18 +453,18 @@ const projects = {
       ],
     },
     {
-      name: "Multiple Disease Prediction System using Machine Learning",
-      url: "https://github.com/Niharika-kakumanu-22/multiple-disease ",
+      name: "Modern payment template",
+      url: "https://github.com/Niharika-kakumanu-22/modern-payment",
       description:
-        "A menu-based multiple chronic disease detection system that will detect if a person is suffering from a severe disease by taking essential input values.",
+        "Modern payment systems use cash substitutes as compared to traditional payment systems. It allows consumers and organizations to transfer funds usually held in an account to one another.",
       languages: [
         {
-          name: "Python",
-          iconifyClass: "logos-python",
+          name: "ReactJS",
+          iconifyClass: "logos-react",
         },
         {
-          name: "Jupyter Notebook",
-          iconifyClass: "logos-jupyter",
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
         },
       ],
     },
