@@ -267,7 +267,7 @@ const degrees = {
     {
       title: "Mahindra University",
       subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "mu.png",
+      logo_path: "mec.png",
       alt_name: "Mahindra University",
       duration: "2020 - 2024",
       descriptions: [
@@ -285,7 +285,7 @@ const certifications = {
     {
       title: "UI/UX",
       subtitle: "Greate Learning",
-      logo_path: "google_logo.png",
+      logo_path: "GL.jpg",
       certificate_link: " ",
       alt_name: "Greate Learning",
       color_code: "#ffc475",
@@ -358,10 +358,6 @@ const projects = {
           iconifyClass: "logos-react",
         },
         {
-          name: "react",
-          iconifyClass: "logos-react",
-        },
-        {
           name: "firebase",
           iconifyClass: "logos-firebase",
         },
@@ -378,10 +374,6 @@ const projects = {
       languages: [
         {
           name: "ReactJS",
-          iconifyClass: "logos-react",
-        },
-        {
-          name: "react",
           iconifyClass: "logos-react",
         },
         {
