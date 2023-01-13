@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
   resumeLink:
-    "https://docs.google.com/document/d/14f2qEaIbtuUedEo25SZ2hk2G1DYE1uzmaHL7nL8MtrE/edit?usp=sharing",
+    "https://docs.google.com/document/d/1MSC8UM6VVKkZPLX1bXy4QLxEggm7QdNaHOJSzmxVmkI/edit",
   mail: "k.niharika2206@gmail.com",
 };
 
@@ -267,7 +267,7 @@ const degrees = {
     {
       title: "Mahindra University",
       subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "mec.png",
+      logo_path: "mecc.jpg",
       alt_name: "Mahindra University",
       duration: "2020 - 2024",
       descriptions: [
